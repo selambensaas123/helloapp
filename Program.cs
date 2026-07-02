@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Console.WriteLine("hello everyone");
+greetWhite();
+greetBlack();
 
 void greetWhite()
 {
@@ -9,5 +11,3 @@ void greetBlack()
 {
     Console.WriteLine("hello black");
 }
-
-Console.WriteLine("hello everyone");
